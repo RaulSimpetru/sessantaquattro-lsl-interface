@@ -1,6 +1,6 @@
 [package]
 name = "sessantaquattro-lsl-interface"
-version = "1.0.0"
+version = "0.1.0"
 edition = "2024"
 authors = ["Raul C. Sîmpetru <raul.simpetru@fau.de>"]
 description = "Sessantaquattro bioelectrical device LSL interface for research applications"
